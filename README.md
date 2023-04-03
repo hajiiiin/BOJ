@@ -1,4 +1,4 @@
 # BOJ
 
-## 풀이 참고
+## 문제 풀이
 https://hihajin.tistory.com/

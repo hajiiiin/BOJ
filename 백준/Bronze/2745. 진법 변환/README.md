@@ -1,6 +1,7 @@
 # [Bronze II] 진법 변환 - 2745 
 
 [문제 링크](https://www.acmicpc.net/problem/2745) 
+[풀이 링크](https://hihajin.tistory.com/23)
 
 ### 성능 요약
 

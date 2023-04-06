@@ -2,7 +2,6 @@
 
 [문제 링크](https://www.acmicpc.net/problem/2563) 
 
-<p></p>
 [풀이 링크](https://hihajin.tistory.com/24)
 
 ### 성능 요약

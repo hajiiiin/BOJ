@@ -4,7 +4,7 @@ for i in range(N):
     PS = input()
     stack = list(PS)
     if stack.count("(") == stack.count(")") :
-        while len(stack) != 0 :
+        while True:
             index_close = stack.index(")")
             index_open = stack.index("(")
             if index_open < index_close :
@@ -16,6 +16,5 @@ for i in range(N):
             else :
                 print("NO")
                 break
-        
     else :
         print("NO")

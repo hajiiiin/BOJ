@@ -1,6 +1,8 @@
 # [Silver IV] 나는야 포켓몬 마스터 이다솜 - 1620 
 
 [문제 링크](https://www.acmicpc.net/problem/1620) 
+| 
+[문제 풀이 링크](https://hihajin.tistory.com/39)
 
 ### 성능 요약
 

@@ -2,6 +2,9 @@
 
 [문제 링크](https://www.acmicpc.net/problem/2960) 
 
+###문제 풀이
+https://hihajin.tistory.com/52
+
 ### 성능 요약
 
 메모리: 17688 KB, 시간: 208 ms

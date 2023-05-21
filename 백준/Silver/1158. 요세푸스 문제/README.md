@@ -1,6 +1,8 @@
 # [Silver IV] 요세푸스 문제 - 1158 
 
 [문제 링크](https://www.acmicpc.net/problem/1158) 
+### 문제 풀이
+https://hihajin.tistory.com/44
 
 ### 성능 요약
 

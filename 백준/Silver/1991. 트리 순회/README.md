@@ -1,6 +1,8 @@
 # [Silver I] 트리 순회 - 1991 
 
 [문제 링크](https://www.acmicpc.net/problem/1991) 
+### 문제 풀이
+https://hihajin.tistory.com/56
 
 ### 성능 요약
 
